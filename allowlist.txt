@@ -1,7 +1,7 @@
 !
 ! Title: Leska's Allowlist
 ! Description: My dad is angry because he can't work with all my adguard's blocklist so I made that allowlist lol
-! Link: https://github.com/JustLeska/adguard/edit/main/allowlist.txt
+! Link: https://raw.githubusercontent.com/JustLeska/adguard/main/allowlist.txt
 !
 !
 ! This section contains the list of third-party advertising networks domains.
