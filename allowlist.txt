@@ -14,3 +14,4 @@
 !
 ||posthog.com^
 ||googleadservices.com^
+||doubleclick.net^
