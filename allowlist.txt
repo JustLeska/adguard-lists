@@ -15,3 +15,4 @@
 ||posthog.com^
 ||googleadservices.com^
 ||doubleclick.net^
+||click.aliexpress.com^
