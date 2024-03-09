@@ -1,0 +1,19 @@
+!
+! Title: Leska's Allowlist
+! Description: My dad is angry because he can't work with all my adguard's blocklist so I made that allowlist lol
+! Link: https://raw.githubusercontent.com/JustLeska/adguard/main/allowlist.txt
+!
+!
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+! The rules with hints are at the end of file.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+||posthog.com^
+||googleadservices.com^
+||doubleclick.net^
+||click.aliexpress.com^
+||trades.roblox.com^
