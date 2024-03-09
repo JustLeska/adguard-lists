@@ -16,3 +16,4 @@
 ||googleadservices.com^
 ||doubleclick.net^
 ||click.aliexpress.com^
+||trades.roblox.com^
