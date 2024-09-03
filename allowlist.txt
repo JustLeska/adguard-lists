@@ -17,3 +17,4 @@
 ||doubleclick.net^
 ||click.aliexpress.com^
 ||trades.roblox.com^
+||activision.com^
