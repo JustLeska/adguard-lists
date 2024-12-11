@@ -19,3 +19,4 @@
 ||trades.roblox.com^
 ||activision.com^
 ||walletconnect.network^
+||ro.blox.com^
